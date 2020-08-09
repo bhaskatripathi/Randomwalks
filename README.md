@@ -14,3 +14,7 @@ Sobol quasi-random sequence was developed in 1967. Since then, it has evolved. I
 -      Output: 
       Real R(M,N), the point
       Usage : df1 = i4_sobol_generate(dim,PopSize,0). e.g. df = i4_sobol_generate(3,4,1)_
+
+### Note : 
+If you like this project then please leave a Star (Top right corner) to show your appreciation !
+I will keep contribuyting and sharing as deep as I read into the territory of random numbers :)
