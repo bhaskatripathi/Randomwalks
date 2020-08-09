@@ -3,7 +3,7 @@ Random Walk strategies for optimization algorithms using Low-Discrepancy Sequenc
 Sobol quasi-random sequence was developed in 1967. Since then, it has evolved. I have added two-quasi Monte Carlo sequences in the original version to improve the uniformity in distribution.
 
 ![GitHub Logo](/Quasi-MonteCarlo.png)
-Format: ![Alt Text](url)
+
 
 ## Usage Method : 
 * The method i4_sobol_generate(dim,PopSize,0) generates a Sobol dataset.
