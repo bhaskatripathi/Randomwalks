@@ -2,7 +2,10 @@
 """
 Created on Sun Aug  9 14:17:34 2020
 
-@author: bhask
+@author: Bhaskar Tripathi
+
+# Original code is available from http://people.sc.fsu.edu/~jburkardt/py_src/sobol/sobol.html
+# MATLAB version by John Burkardt. I converted the code into Python and made two little improvements in generating the sequence defined in the Readme.md file
 """
 import random as rnd
 import math
@@ -159,8 +162,7 @@ def i4_sobol(dim_num, seed):
                 includ[k - 1] = (j != 2 * j2)
                 j = j2
 
-            #  Calculate the remaining elements of row I as explained
-            #  in Bratley and Fox, section 2.
+            #  Calculate the remaining elements of row
             for j in range(m + 1, maxcol + 1):
                 newv = v[i - 1, j - m - 1]
                 l = 1
