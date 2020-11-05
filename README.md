@@ -4,6 +4,8 @@ Sobol quasi-random sequence was developed in 1967. Since then, it has evolved. I
 
 ![GitHub Logo](/Quasi-MonteCarlo.png)
 
+### NOVEL TRIPATHI-SHARMA QUASI SEQUENCE
+![GitHub Logo](Quasi-MonteCarlo_bhaskar_Sequence.png)
 
 ## Usage Method : 
 * The method i4_sobol_generate(dim,PopSize,0) generates a Sobol dataset.
