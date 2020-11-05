@@ -19,4 +19,4 @@ Sobol quasi-random sequence was developed in 1967. Since then, it has evolved. I
 
 ### Note : 
 If you like this project then please leave a Star (Top right corner) to show your appreciation !
-I will keep contribuyting and sharing as deep as I read into the territory of random numbers :)
+Citation details to be out soon on pre-print launch
